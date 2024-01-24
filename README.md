@@ -1,4 +1,7 @@
 # README
+# About
+
+Este proyecto se ha hecho para la asignatura de Targetas Gráficas y Aceleradores (TGA)  de la Facultad de Informática de Barcelona (FIB) en el Q1 del curso 2023-24 y ha sido realizado por Albert Ruiz Vives y Xavier Bernat López. La nota final del mismo ha sido un 9.5.
 
 En este proyecto hay diversos archivos. A continuación se explica cómo usarlos y para qué sirven.
 
@@ -57,6 +60,3 @@ Hemos dividido job.sh en estos 3 archivos para hacer más cómodo el testeo de l
     ./[programa].exe [NOMBRE_ARCHIVO_IN].jpg [NOMBRE_ARCHIVO_OUT].jpg
 
 
-# About
-
-Este proyecto pertenece a la asignatura de Targetas Gráficas y Aceleradores (TGA) y ha sido realizado por Albert Ruiz Vives y Xavier Bernat López.
